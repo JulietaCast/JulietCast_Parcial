@@ -1,0 +1,36 @@
+
+                .boton {
+                    background-color: #865c5c;
+                    color: white;
+                    padding: 5px 10px;
+                    border: none;
+                    cursor: pointer;
+                    text-decoration: none;
+                    font-size: 16px;
+                    border-radius: 5px;
+                }
+                
+                .boton:hover {
+                    background-color: #5f0e54;
+                }
+           
+                .p1  {
+                    font-family: "Lato", sans-serif;
+                    font-weight: 400;
+                    font-style: normal;
+                  }
+    
+                  .p2  {
+                    
+      font-family: "Noto Sans", sans-serif;
+      color: #853e05;
+    
+    }
+
+
+        li { color: #a11b1b; font-family: "Lato", sans-serif;
+            font-weight: 400;
+            font-style: normal;}
+            ul { color:rgb(18, 59, 8)b; font-family: "Lato", sans-serif;
+                font-weight: 400;
+                font-style: normal;}

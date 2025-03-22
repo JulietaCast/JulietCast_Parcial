@@ -1,0 +1,41 @@
+table,
+            tr,
+            td,
+            th {
+                border: 1px solid rgba(230, 26, 26, 0.2);
+            }
+                .texto-rojo { color: #722672; font-family: "Lato", sans-serif;
+                    font-weight: 400;
+                    font-style: normal;}
+                .texto-rojolight { color: #d10303;font-family: "Lato", sans-serif;
+                    font-weight: 400;
+                    font-style: normal; }
+                .texto-rojobold { color: #630202;font-family: "Lato", sans-serif;
+                    font-weight: 400;
+                    font-style: normal; }
+               
+                .boton {
+                    background-color: #722672;
+                    color: white;
+                    padding: 5px 10px;
+                    border: none;
+                    cursor: pointer;
+                    text-decoration: none;
+                    font-size: 16px;
+                    border-radius: 5px;
+                }
+                .boton:hover {
+                    background-color: #c21414;
+                }
+                
+                .p1  {
+                    font-family: "Lato", sans-serif;
+                    font-weight: 400;
+                    font-style: normal;
+                  }
+    
+                  .p2  {
+                    
+      font-family: "Noto Sans", sans-serif;
+    
+    }
